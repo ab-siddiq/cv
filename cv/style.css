@@ -1,0 +1,68 @@
+body{
+    background-color: #ceddef;
+}
+.container{
+    margin-left: 10px;
+    background-color: 
+}
+
+.body{
+    margin-top: -19px;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 130px;
+    float: left;
+    margin-top: 8px;
+}
+
+.name{
+    font-size: 35px;
+    font-family: cursive;
+    text-transform: uppercase;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.address{
+    float: left;
+    margin-left: 0px;
+    margin-top: 0px; 
+    font-size: 25px;
+    
+}
+
+.address ul li{
+    list-style: none;
+    line-height: 2;
+}
+
+.clr{
+    clear: both;
+}
+
+.title{
+    background-color: #1f3c88;
+    color: #fff;
+    font-family: cursive;
+    text-transform: uppercase;
+    
+}
+
+.title_body{
+    line-height: 35px;
+    font-size: 20px;
+    font-family: georgia;
+}
+
+.title_body p{
+    margin-left: 10px;
+}
+.text{
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+
